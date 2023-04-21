@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "d587bc40a4a75e5d4ae77b2063253da7ef624d0b6946f6e8c2da19257daccb25"
+build_start_time: [1681851531, 374364852]
+build_end_time: [1681851533, 180717945]
+inputs:
+  "/Users/tbs/Documents/generator_key/generator_key/generator_key/macos/Flutter/GeneratedPluginRegistrant.swift": [1681851482, 134276866]
+  "/Users/tbs/Documents/generator_key/generator_key/generator_key/macos/Runner/AppDelegate.swift": [1634145002, 568837642]
+  "/Users/tbs/Documents/generator_key/generator_key/generator_key/macos/Runner/MainFlutterWindow.swift": [1680615814, 556231737]

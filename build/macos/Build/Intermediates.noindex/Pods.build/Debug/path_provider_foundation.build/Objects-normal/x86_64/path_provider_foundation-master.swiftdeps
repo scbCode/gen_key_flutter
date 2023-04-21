@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "30773877af673ad64ab80f2e2d11ee9a24eeee8f268b0aacf6b33343a52cc033"
+build_start_time: [1681830836, 214548110]
+build_end_time: [1681830838, 559612989]
+inputs:
+  "/Users/tbs/.pub-cache/hosted/pub.dartlang.org/path_provider_foundation-2.2.2/macos/Classes/PathProviderPlugin.swift": [1681603095, 190901994]
+  "/Users/tbs/.pub-cache/hosted/pub.dartlang.org/path_provider_foundation-2.2.2/macos/Classes/messages.g.swift": [1681603095, 192502498]

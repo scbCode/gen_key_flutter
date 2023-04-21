@@ -1,0 +1,39 @@
+{
+  "versionApp": "0.0.1",
+  "pages": [
+    {
+      "page": "pix_qrcode_scanner",
+      "items": [
+        {
+          "key": "#KEY-pix_qrcode_scanner-bt-bar",
+          "type": "BT"
+        }
+      ]
+    },
+    {
+      "page": "pix_copy_paste",
+      "items": [
+        {
+          "key": "#KEY-pix_copy_paste-bt-continue",
+          "type": "BT"
+        },
+        {
+          "key": "#KEY-pix_copy_paste-text_field-code",
+          "type": "TEXT_FIELD"
+        },
+        {
+          "key": "#KEY-pix_copy_paste-bt-paste_copy",
+          "type": "BT"
+        },
+        {
+          "key": "#KEY-pix_copy_paste-bt-description",
+          "type": "BT"
+        },
+        {
+          "key": "#KEY-pix_copy_paste-bt-continue",
+          "type": "BT"
+        }
+      ]
+    }
+  ]
+}
